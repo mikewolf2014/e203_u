@@ -1,5 +1,9 @@
 The Simulation Directory
 ================
+we will use vcs to simulate and verify e203_u. os is linux, my os is redhat.
+
+command as below
+
 1. make compile
    
    // this command compile rtl files
