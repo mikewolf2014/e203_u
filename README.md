@@ -1,8 +1,11 @@
 The Simulation Directory
 ================
 1. make compile
- compile rtl
+   
+   // this command compile rtl files
 2. make run_test TESTNAME=rv32ui-p-and
-  run test rv32ui-p-and, all tests in ./run/generated/
+   
+   // this command run test rv32ui-p-and, all tests in ./run/generated/
 3. make debug TESTNAME=rv32ui-p-and
-  load design and waveform for test rv32ui-p-and
+  
+   //load design and waveform with verdi for test rv32ui-p-and, then you can debug test
